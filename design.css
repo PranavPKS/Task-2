@@ -1,0 +1,55 @@
+h2
+{
+font-size:42px;
+line-height: 114px;
+text-indent: 24px;
+margin-bottom: 6px;
+font-family: "Garaje53","Arial Black",sans-serif;
+color:#000;
+background:url("images/back.png");
+background-repeat: no-repeat;
+}
+label
+{
+font-weight:bolder;
+color:orange;
+}
+fieldset
+{
+background-color:white;
+}
+#reg
+{
+float:right;
+display:block;
+}
+button
+{
+background-color:yellow;
+}
+#login
+{
+display:block;
+}
+body
+{
+background-color:#FFE8C9;
+}
+#log
+{
+position:absolute;
+left:200px;
+top:250px;
+}
+#logo
+{
+clear:right;
+height: 75px;
+width: 40px;
+position: absolute;
+padding: 20px;
+padding-top: 10px;
+margin:auto;
+background-color: rgb(248,86,8);
+border-radius: 10px;
+}
